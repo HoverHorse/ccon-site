@@ -1,5 +1,4 @@
 import React from 'react';
-import CorpImage from '../public/assets/factory-figure.png';
 import CorpExplain from './CorpExplain';
 
 class CorpButton extends React.Component {

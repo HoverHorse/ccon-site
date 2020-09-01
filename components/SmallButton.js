@@ -1,5 +1,4 @@
 import React from 'react';
-import SmallImage from '../public/assets/crew-figure.png';
 import SmallExplain from './SmallExplain';
 
 class SmallButton extends React.Component {

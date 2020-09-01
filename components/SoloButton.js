@@ -1,7 +1,5 @@
 import React from 'react';
 import SoloExplain from './SoloExplain';
-import SingleFigure from '../public/assets/single-figure.png';
-
 
 class SoloButton extends React.Component {
     constructor (props) {

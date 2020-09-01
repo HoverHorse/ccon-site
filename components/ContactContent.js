@@ -1,6 +1,4 @@
 import React from 'react';
-import MapImage from '../public/assets/map-image.png';
-import CloseButton from './CloseButton';
 
 
 class ContactContent extends React.Component {
